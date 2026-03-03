@@ -1,4 +1,4 @@
-# Tespen Robotics
+# Tespen Robotics <img src="logo.svg" alt="Tespen Logo" height="40">
 
 **We're automating public transit and urban utility vehicles to make cities smarter, safer, and better for everyone.**
 
