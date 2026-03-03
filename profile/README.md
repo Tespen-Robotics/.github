@@ -16,13 +16,11 @@ We believe the biggest impact of autonomous driving won't come from luxury consu
 
 We work across the full autonomy stack - perception, localization, mapping, and planning - building systems that are hardware-agnostic by design. Our software doesn't lock you into a specific sensor suite or vehicle platform. It's built to work across the real, messy diversity of urban environments and fleet hardware.
 
-Our work integrates with leading open-source frameworks like Autoware and is grounded in real engineering challenges. We started by closing one of the key gaps in AV development: accessible, reproducible simulation maps for precision low-speed urban scenarios. That work earned a Best Paper Award at GEOProcessing 2025. It's just the beginning. 🏆
-
 ---
 
 ## Tech Stack
 
-`Python` · `Docker` · `Autoware` · `AWSIM` · `Lanelet2` · `Point Cloud Library` · `OpenStreetMap` · `LiDAR Scan Matching` · `Blender` · `CloudCompare`
+`Python` · `Docker` · `AWSIM` · `Lanelet2` · `Point Cloud Library` · `OpenStreetMap` · `LiDAR Scan Matching` · `Blender` · `CloudCompare`
 
 ---
 
