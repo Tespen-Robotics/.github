@@ -1,4 +1,4 @@
-# <img src="tespen.svg" alt="Tespen Logo" height="25">&nbsp;Tespen Robotics
+# Tespen Robotics
 
 [tespen.com](https://tespen.com)
 
@@ -20,4 +20,4 @@ We work across the full autonomy stack - perception, localization, mapping, and 
 
 ---
 
-*Autonomous. Precise. Built to move.*
+*Tespen Robotics*
