@@ -16,7 +16,7 @@ We believe the biggest impact of autonomous driving won't come from luxury consu
 
 ## What We Do
 
-We work across the full autonomy stack - perception, localization, mapping, and planning - building systems that are hardware-agnostic by design. Our software doesn't lock you into a specific sensor suite or vehicle platform. It's built to work across the real, messy diversity of urban environments and fleet hardware.
+We work across the full autonomy stack - perception, localization, mapping, and planning. It's built to work across the real, messy diversity of urban environments and fleet hardware.
 
 ---
 
