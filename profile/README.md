@@ -1,4 +1,4 @@
-# Tespen Robotics 🤖
+# Tespen Robotics
 
 **We're automating public transit and urban utility vehicles to make cities smarter, safer, and better for everyone.**
 
@@ -15,12 +15,6 @@ We believe the biggest impact of autonomous driving won't come from luxury consu
 ## What We Do
 
 We work across the full autonomy stack - perception, localization, mapping, and planning - building systems that are hardware-agnostic by design. Our software doesn't lock you into a specific sensor suite or vehicle platform. It's built to work across the real, messy diversity of urban environments and fleet hardware.
-
----
-
-## Tech Stack
-
-`Python` · `Docker` · `AWSIM` · `Lanelet2` · `Point Cloud Library` · `OpenStreetMap` · `LiDAR Scan Matching` · `Blender` · `CloudCompare`
 
 ---
 
