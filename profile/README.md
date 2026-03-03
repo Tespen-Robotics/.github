@@ -1,22 +1,22 @@
 # Tespen Robotics 🤖
 
-**The future of mobility isn't tied to any single platform. We're building the systems to prove it.**
+**We're automating public transit and urban utility vehicles to make cities smarter, safer, and better for everyone.**
 
 ---
 
 ## Who We Are
 
-Tespen Robotics is an autonomous systems engineering team on a mission to make self-driving technology truly accessible - across hardware, across environments, across the world. We believe the next leap in intelligent transportation won't come from proprietary black boxes, but from open, reproducible systems that anyone can build on.
+Tespen Robotics is a physical AI company building hardware-agnostic self-driving technology for the vehicles that keep cities running - public transit, utility fleets, and urban mobility services. Our mission is to automate urban systems in a way that genuinely improves people's quality of life: less waiting, less waste, safer streets, and more efficient cities.
 
-We design and develop hardware-agnostic self-driving systems: software that doesn't care what sensor suite you're running, what vehicle you're testing on, or what simulation environment you're using. The stack works. The platform is yours.
+We believe the biggest impact of autonomous driving won't come from luxury consumer cars - it'll come from the buses, shuttles, and utility vehicles that millions of people depend on every day. That's where we're focused.
 
 ---
 
 ## What We Do
 
-We work across the full autonomy pipeline - perception, localization, mapping, and planning - with a focus on building tools and systems that are rigorous enough for research and practical enough for real-world deployment. Our work integrates with leading open-source frameworks like Autoware and is grounded in real engineering challenges, not toy problems.
+We work across the full autonomy stack - perception, localization, mapping, and planning - building systems that are hardware-agnostic by design. Our software doesn't lock you into a specific sensor suite or vehicle platform. It's built to work across the real, messy diversity of urban environments and fleet hardware.
 
-We started by tackling one of the most overlooked gaps in AV development: the lack of accessible, small-scale simulation maps for precision low-speed scenarios like autonomous valet parking (AVP). That work earned a Best Paper Award at GEOProcessing 2025. It's just the beginning. 🏆
+Our work integrates with leading open-source frameworks like Autoware and is grounded in real engineering challenges. We started by closing one of the key gaps in AV development: accessible, reproducible simulation maps for precision low-speed urban scenarios. That work earned a Best Paper Award at GEOProcessing 2025. It's just the beginning. 🏆
 
 ---
 
@@ -26,6 +26,6 @@ We started by tackling one of the most overlooked gaps in AV development: the la
 
 ---
 
-**GitHub:** [github.com/Tespen-Robotics](https://github.com/Tespen-Robotics)
+**Website:** [tespen.com](https://tespen.com)
 
 *Autonomous. Precise. Built to move.*
